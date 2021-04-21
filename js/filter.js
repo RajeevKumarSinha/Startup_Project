@@ -28,12 +28,12 @@ let bakedItems = [{
     category: "parts"
 },
 {
-    image: 'images/wires.jpg',
+    image: 'images/led.jpg',
     name: 'Led(pack of 8)',
     price: 'Rs.200',
     category: "parts"
 }, {
-    image: 'images/led.jpg',
+    image: 'images/wires.jpg',
     name: 'Wires(pack of 50)',
     price: 'Rs.200',
     category: "parts"
